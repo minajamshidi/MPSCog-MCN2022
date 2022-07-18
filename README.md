@@ -1,5 +1,5 @@
 # MPSCog2021
-the tutorials for Max Planck School of Cognition - Methods in Cognitive Neuroscience - June 2021
+the tutorials for Max Planck School of Cognition - Methods in Cognitive Neuroscience - July 2022
 
 - EEG/MEG pre-processing using MNE python and scipy/numpy.
 
